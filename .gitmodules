@@ -1,0 +1,3 @@
+[submodule "submodule"]
+	path = submodule
+	url = https://alincode@github.com/alincode/git-submodule-sandbox.git
